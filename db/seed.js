@@ -12,3 +12,4 @@ seed()
     sequelize.close();
   });
   
+  seed()
